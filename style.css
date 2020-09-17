@@ -18,9 +18,58 @@
 
 #questions {
     margin: 15px;
-    border: black solid 1px;
+    
 }
 
-#timer {
+#realTime {
     float: right;
+}
+
+h1 {
+    text-align: center;
+}
+
+textarea {
+    width: 90%;
+    margin: 15px;
+}
+
+#realTime {
+    float: right;
+}
+
+button {
+    border-radius: 8px;
+}
+
+textarea {
+    width: 90%;
+    margin: 20px;
+}
+
+label {
+    margin-right: 10px;
+}
+input {
+    margin-bottom: 20px;
+    width: 50%;
+    border: 1px solid white;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    background-color: darkgreen;
+    margin-top: 10px;
+    padding: 5px 15px;
+    width: 80%;
+    font-size: 18px;
+    color: white;
+}
+
+#createDiv {
+    margin-top: 20px;
+    border-top: 1px solid white;
 }
