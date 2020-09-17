@@ -4,5 +4,5 @@ This is quiz created with HTML, CSS, and JavaScript elements. It will prompt you
 
 # Links
 Github Repository: https://github.com/cmacgeorge1/Quiz
-Live Link: 
+Live Link: https://cmacgeorge1.github.io/Quiz/
 
